@@ -11,10 +11,9 @@ export default function Home() {
         We meet every Wednesday at 8 AM. You can attend in person at Tech Alpharetta • 2972 Webb Bridge Road, Alpharetta, GA 30009{"\n"}
         OR
         <a href="https://us06web.zoom.us/j/99801555269" target="_blank">
-        Attend meeting using this zoom link{"\n"} 
-        *This links is active at 7:45AM*
+        Attend meeting using this zoom link \n 
         </a>{" "}
-        to learn how to build SolidStart apps.
+        \n *This links is active at 7:45AM*
       </p>
     </main>
   );
